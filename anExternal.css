@@ -1,0 +1,10 @@
+img {
+  float: right;
+}
+#rcorners1 {
+  border-radius: 30px;
+  background: #EEA48B;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
